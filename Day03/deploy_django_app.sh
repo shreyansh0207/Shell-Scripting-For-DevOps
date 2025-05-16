@@ -13,9 +13,8 @@ code_clone() {
             return 1                                                                
         }                                                                       
     fi                                     
-                                    
-}
 
+}
 # Function to install required dependencies
 install_requirements() {                                                        
     echo "Installing dependencies..."                                           
