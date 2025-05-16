@@ -12,7 +12,8 @@ code_clone() {
             echo "Failed to clone the code."                                            
             return 1                                                                
         }                                                                       
-    fi                                                                     
+    fi                                     
+                                    
 }
 
 # Function to install required dependencies
